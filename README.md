@@ -11,4 +11,4 @@ The code compares six different number sorting algorithms:
 5. Merge Sort
 6. Python's Built-In Sorted() function
 
-![Random Perfomance Analysis][(https://github.com/nasriv/SortAlgo/blob/master/rand_perf.png)
+![Random Perfomance Analysis](https://github.com/nasriv/SortAlgo/blob/master/rand_perf.png)
