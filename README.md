@@ -12,4 +12,4 @@ The code compares the time to sort six different number sorting algorithms for v
 5. Merge Sort
 6. Python's Built-In Sorted() function
 
-![Random Perfomance Analysis](https://github.com/nasriv/SortAlgo/blob/master/rand_perf.png)
+![Random Perfomance Analysis](https://github.com/nasriv/SortAlgo/blob/master/random_perf.png)
