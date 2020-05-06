@@ -1,7 +1,8 @@
 # SortAlgo
 Performance analysis of various sorting algorithms
 
-Coding and outline is based on my StackSkills Course, "Python Programming, CS, Algorithms and Data Structures" by Mashrur Hossain
+Code and outline is based on my experience completing the StackSkills Course, "Python Programming, CS, Algorithms and Data Structures" by Mashrur Hossain (https://stackskills.com/p/python-programming-cs-algorithms-and-data-structures#)
+
 
 The code compares six different number sorting algorithms:
 1. Bubble Sort
